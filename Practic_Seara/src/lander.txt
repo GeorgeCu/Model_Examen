@@ -1,0 +1,7 @@
+Afghanistan Asien 652230 25500100 Kabul
+Albanien Europa 28748 2821977 Tirana
+Mlbanien Europa 2874 2821977 Tirana
+Masdsa Europa 1000000 2821977 Tirana
+Albanien Europa 999999 2821977 Tirana
+Masdsa Europa 99999988 2821977 Tirana
+
